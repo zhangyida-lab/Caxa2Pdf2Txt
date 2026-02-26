@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x64" />
+  </Configurations>
+  <Project Path="Caxa2Pdf2Txt/Caxa2Pdf2Txt.csproj" Id="1c3bd0a5-04e6-444f-b0cb-4c7ccba060d9">
+    <Platform Solution="*|x64" Project="x64" />
+  </Project>
+</Solution>
